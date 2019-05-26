@@ -1,6 +1,7 @@
 import React from 'react';
 import logo from './logo.svg';
-import './App.css';
+import { ReduxForm } from './components/redux-form';
+import './app.css';
 
 function App() {
   return (
