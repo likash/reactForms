@@ -1,1 +1,1 @@
-export const FORM_NAME = "form";
+export const FORM_NAME = "cafe-form";
